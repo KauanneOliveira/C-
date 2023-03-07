@@ -1,0 +1,15 @@
+/home/estudante/sp3044785/MesDoANo/bin/Debug/net6.0/MesDoANo
+/home/estudante/sp3044785/MesDoANo/bin/Debug/net6.0/MesDoANo.deps.json
+/home/estudante/sp3044785/MesDoANo/bin/Debug/net6.0/MesDoANo.runtimeconfig.json
+/home/estudante/sp3044785/MesDoANo/bin/Debug/net6.0/MesDoANo.dll
+/home/estudante/sp3044785/MesDoANo/bin/Debug/net6.0/MesDoANo.pdb
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.csproj.AssemblyReference.cache
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.AssemblyInfoInputs.cache
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.AssemblyInfo.cs
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.csproj.CoreCompileInputs.cache
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.dll
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/refint/MesDoANo.dll
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.pdb
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/MesDoANo.genruntimeconfig.cache
+/home/estudante/sp3044785/MesDoANo/obj/Debug/net6.0/ref/MesDoANo.dll
