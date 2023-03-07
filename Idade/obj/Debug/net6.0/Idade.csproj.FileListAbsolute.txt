@@ -1,0 +1,15 @@
+/home/estudante/sp3044785/Idade/bin/Debug/net6.0/Idade
+/home/estudante/sp3044785/Idade/bin/Debug/net6.0/Idade.deps.json
+/home/estudante/sp3044785/Idade/bin/Debug/net6.0/Idade.runtimeconfig.json
+/home/estudante/sp3044785/Idade/bin/Debug/net6.0/Idade.dll
+/home/estudante/sp3044785/Idade/bin/Debug/net6.0/Idade.pdb
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.csproj.AssemblyReference.cache
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.AssemblyInfoInputs.cache
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.AssemblyInfo.cs
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.csproj.CoreCompileInputs.cache
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.dll
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/refint/Idade.dll
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.pdb
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/Idade.genruntimeconfig.cache
+/home/estudante/sp3044785/Idade/obj/Debug/net6.0/ref/Idade.dll
