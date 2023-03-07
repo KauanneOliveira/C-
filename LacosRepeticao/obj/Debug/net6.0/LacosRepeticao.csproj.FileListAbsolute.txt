@@ -1,0 +1,15 @@
+/home/estudante/sp3044785/LacosRepeticao/bin/Debug/net6.0/LacosRepeticao
+/home/estudante/sp3044785/LacosRepeticao/bin/Debug/net6.0/LacosRepeticao.deps.json
+/home/estudante/sp3044785/LacosRepeticao/bin/Debug/net6.0/LacosRepeticao.runtimeconfig.json
+/home/estudante/sp3044785/LacosRepeticao/bin/Debug/net6.0/LacosRepeticao.dll
+/home/estudante/sp3044785/LacosRepeticao/bin/Debug/net6.0/LacosRepeticao.pdb
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.csproj.AssemblyReference.cache
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.AssemblyInfoInputs.cache
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.AssemblyInfo.cs
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.csproj.CoreCompileInputs.cache
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.dll
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/refint/LacosRepeticao.dll
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.pdb
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/LacosRepeticao.genruntimeconfig.cache
+/home/estudante/sp3044785/LacosRepeticao/obj/Debug/net6.0/ref/LacosRepeticao.dll
