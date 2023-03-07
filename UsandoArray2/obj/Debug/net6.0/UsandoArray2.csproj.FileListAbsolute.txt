@@ -1,0 +1,15 @@
+/home/estudante/sp3044785/UsandoArray2/bin/Debug/net6.0/UsandoArray2
+/home/estudante/sp3044785/UsandoArray2/bin/Debug/net6.0/UsandoArray2.deps.json
+/home/estudante/sp3044785/UsandoArray2/bin/Debug/net6.0/UsandoArray2.runtimeconfig.json
+/home/estudante/sp3044785/UsandoArray2/bin/Debug/net6.0/UsandoArray2.dll
+/home/estudante/sp3044785/UsandoArray2/bin/Debug/net6.0/UsandoArray2.pdb
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.csproj.AssemblyReference.cache
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.AssemblyInfoInputs.cache
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.AssemblyInfo.cs
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.csproj.CoreCompileInputs.cache
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.dll
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/refint/UsandoArray2.dll
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.pdb
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/UsandoArray2.genruntimeconfig.cache
+/home/estudante/sp3044785/UsandoArray2/obj/Debug/net6.0/ref/UsandoArray2.dll
