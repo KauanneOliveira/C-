@@ -1,0 +1,15 @@
+/home/estudante/sp3044785/DataCorrente/bin/Debug/net6.0/DataCorrente
+/home/estudante/sp3044785/DataCorrente/bin/Debug/net6.0/DataCorrente.deps.json
+/home/estudante/sp3044785/DataCorrente/bin/Debug/net6.0/DataCorrente.runtimeconfig.json
+/home/estudante/sp3044785/DataCorrente/bin/Debug/net6.0/DataCorrente.dll
+/home/estudante/sp3044785/DataCorrente/bin/Debug/net6.0/DataCorrente.pdb
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.csproj.AssemblyReference.cache
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.AssemblyInfoInputs.cache
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.AssemblyInfo.cs
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.csproj.CoreCompileInputs.cache
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.dll
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/refint/DataCorrente.dll
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.pdb
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/DataCorrente.genruntimeconfig.cache
+/home/estudante/sp3044785/DataCorrente/obj/Debug/net6.0/ref/DataCorrente.dll
