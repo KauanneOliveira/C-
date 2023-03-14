@@ -1,0 +1,15 @@
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.csproj.AssemblyReference.cache
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.AssemblyInfoInputs.cache
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.AssemblyInfo.cs
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.csproj.CoreCompileInputs.cache
+/home/estudante/sp3044785/Peixes/bin/Debug/net6.0/Peixes
+/home/estudante/sp3044785/Peixes/bin/Debug/net6.0/Peixes.deps.json
+/home/estudante/sp3044785/Peixes/bin/Debug/net6.0/Peixes.runtimeconfig.json
+/home/estudante/sp3044785/Peixes/bin/Debug/net6.0/Peixes.dll
+/home/estudante/sp3044785/Peixes/bin/Debug/net6.0/Peixes.pdb
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.dll
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/refint/Peixes.dll
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.pdb
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/Peixes.genruntimeconfig.cache
+/home/estudante/sp3044785/Peixes/obj/Debug/net6.0/ref/Peixes.dll
