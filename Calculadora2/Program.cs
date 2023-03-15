@@ -43,7 +43,7 @@ class Programa {
              Console.WriteLine("Digite um número e pressione Enter:");
              n1 = Console.ReadLine();
 
-             while( ! double.TryParse(n1, out num1) ){                               // caso colocar uma letra ou algo q não seja número, vai ficar nesse laço até colocar um correto
+             while( ! double.TryParse(n1, out num1) ){                               // caso colocar uma letra ou algo q não seja número, vai ficar nesse laço até colocar um número
                  Console.WriteLine("Número Inválido. Digite um número válido:");     // TryParse resulta em um booleano informando se a conversão foi possível e caso verdade, o valor da conversão.
                  n1= Console.ReadLine();                                             // no parâmetro do TryParse o primeiro valor é o dado entrado pelo usuário e o segundo parâmetro é a resposta, então se dado digitado for um número o TryParse vai reconhecer e vai mandar o valor para a variável de saída 
              }
@@ -51,7 +51,7 @@ class Programa {
              Console.WriteLine("Digite outro número válido:");                       // depois de ser colocado um número, vai pedir para colocar o segundo numero
              n2= Console.ReadLine();
 
-             while( ! double.TryParse(n2, out num2) ){                               //se não for número, fica nesse laço até ser 
+             while( ! double.TryParse(n2, out num2) ){                               //se não for número, fica nesse laço até ser um 
                  Console.WriteLine("Número Inválido. Digite outro número válido:");
                  n2= Console.ReadLine();
              }
