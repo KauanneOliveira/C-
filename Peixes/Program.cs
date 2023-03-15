@@ -28,3 +28,5 @@ for(var i = numeros.Count - 1; i >= 0; i--){
         numeros.RemoveAt(i);  //Remove de um determinado índice 
     }
 }
+
+numeros.ForEach( numero => Console.Write(numero + " ") );
