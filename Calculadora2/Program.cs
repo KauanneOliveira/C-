@@ -72,7 +72,7 @@ class Programa {
                      Console.WriteLine("Esta operação resultará em um erro matemático.\n");
                  } 
                  else
-                     Console.WriteLine("Seu resultado é : {0:0.####}\n", resultado);
+                     Console.WriteLine("Seu resultado é : {0:0.####}\n", resultado);     // 0:0.#### = vai mostrar o resultado com 4 números depois da vírgula.
              }
              catch( Exception e) {
                  Console.WriteLine("Ocorreu uma exceção.\n -Detalhes:" +e.Message);
