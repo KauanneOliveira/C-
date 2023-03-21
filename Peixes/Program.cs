@@ -29,4 +29,4 @@ for(var i = numeros.Count - 1; i >= 0; i--){
     }
 }
 
-numeros.ForEach( numero => Console.Write(numero + " ") );
+numeros.ForEach( numero => Console.Write(numero + " ") ); // tá exibindo a lista numeros no foreach e ta dizendo que cada looping um elemento do numeros vai ser colocado na variavel numero e será efetuado o comando do Console.
