@@ -1,0 +1,15 @@
+/home/estudante1/SP3044785/Fibonacci/bin/Debug/net7.0/Fibonacci
+/home/estudante1/SP3044785/Fibonacci/bin/Debug/net7.0/Fibonacci.deps.json
+/home/estudante1/SP3044785/Fibonacci/bin/Debug/net7.0/Fibonacci.runtimeconfig.json
+/home/estudante1/SP3044785/Fibonacci/bin/Debug/net7.0/Fibonacci.dll
+/home/estudante1/SP3044785/Fibonacci/bin/Debug/net7.0/Fibonacci.pdb
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.AssemblyReference.cache
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfoInputs.cache
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.AssemblyInfo.cs
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.dll
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/refint/Fibonacci.dll
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.pdb
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/Fibonacci.genruntimeconfig.cache
+/home/estudante1/SP3044785/Fibonacci/obj/Debug/net7.0/ref/Fibonacci.dll
