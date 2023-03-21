@@ -17,18 +17,11 @@
 
 var fibonacciNumeros = new List<int> {1,1};
 
-for( int i=1; i <= 19; i++){
+for( int i=0; i <= 19; i++){
     
     var previo = fibonacciNumeros[fibonacciNumeros.Count -1];
     var previo2= fibonacciNumeros[fibonacciNumeros.Count -2];
     fibonacciNumeros.Add( previo + previo2 );
 
-    Console.WriteLine($"O item " +i+ ": " +fibonacciNumeros[i]);
+    Console.WriteLine($"O item " +(i+1)+ ": " +fibonacciNumeros[i]);
 }
-
-
-
-
-
-
-
