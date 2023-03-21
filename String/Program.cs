@@ -1,12 +1,5 @@
 ﻿var nomes = new List<string>{"Kauanne", "Jorge", "Henrique", "Chloe"};
 
-foreach(var nome in nomes){
-    Console.WriteLine($"Olá { nome.ToUpper() }.");
-}
-
-
-
-Console.WriteLine();
 nomes.Add("Julia");
 nomes.Add("Maggie");
 nomes.Remove("Henrique");
@@ -32,7 +25,7 @@ if(index == -1){                                // -1 quer dizer que não achou 
 
 }else {
 
-    Console.WriteLine($"O nome {nomes[index]} está no índice {index}"); //O nome Julia está no índice 3
+    Console.WriteLine($"O nome {nomes[index]} está no índice {index}"); // saída se ao invés de Felipe fosse Julia: O nome Julia está no índice 3
 
 }
 
