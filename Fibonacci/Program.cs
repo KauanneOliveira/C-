@@ -1,4 +1,4 @@
-﻿var fibonacciNumeros = new List<int> {1,1};
+var fibonacciNumeros = new List<int> {1,1};
 
 var previo = fibonacciNumeros[fibonacciNumeros.Count -1]; //Count é contador e o Length é tamanho
 var previo2= fibonacciNumeros[fibonacciNumeros.Count -2];  // numeros.ForEach(numero => Console.Write(numero+ " ")); - numeros é a lista, numero é a variável, => esse operador  
