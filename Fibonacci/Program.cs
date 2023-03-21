@@ -14,11 +14,3 @@ fibonacciNumeros.Add( previo3 + previo4 );
 foreach( var item in fibonacciNumeros){
     Console.WriteLine(item);
 }
-
-
-
-
-
-
-
-
