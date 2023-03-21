@@ -1,0 +1,15 @@
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.csproj.AssemblyReference.cache
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.AssemblyInfoInputs.cache
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.AssemblyInfo.cs
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.csproj.CoreCompileInputs.cache
+/home/estudante1/SP3044785/String/bin/Debug/net7.0/String
+/home/estudante1/SP3044785/String/bin/Debug/net7.0/String.deps.json
+/home/estudante1/SP3044785/String/bin/Debug/net7.0/String.runtimeconfig.json
+/home/estudante1/SP3044785/String/bin/Debug/net7.0/String.dll
+/home/estudante1/SP3044785/String/bin/Debug/net7.0/String.pdb
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.dll
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/refint/String.dll
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.pdb
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/String.genruntimeconfig.cache
+/home/estudante1/SP3044785/String/obj/Debug/net7.0/ref/String.dll
