@@ -23,5 +23,5 @@ for( int i=0; i <= 19; i++){
     var previo2= fibonacciNumeros[fibonacciNumeros.Count -2];
     fibonacciNumeros.Add( previo + previo2 );
 
-    Console.WriteLine($"O item " +(i+1)+ ": " +fibonacciNumeros[i]); //O item 1: 1 ...
+    Console.WriteLine($"O item " +(i+1)+ ": " +fibonacciNumeros[i]); //O item 1: 1 (pula linha) O item 2: 1
 }
