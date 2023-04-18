@@ -9,7 +9,9 @@ Console.WriteLine($"Saldo Atual de {conta.Saldo}\n"); //Saldo Atual de 500,50
 
 conta.EfetuarDeposito(100, DateTime.Now, "Recebimento de um amigo"); //Saldo Atual de 600,50
 Console.WriteLine($"Saldo Atual de {conta.Saldo}\n");
-/*
+
+Console.WriteLine(conta.ObterHistoricodeConta());
+
 try
 {
     conta.EfetuarSaque(750, DateTime.Now, "Tentativa de saque sem saldo suficiente");
@@ -34,6 +36,4 @@ catch (ArgumentOutOfRangeException e)
     Console.WriteLine(e.ToString());
     return;
 }
-*/
 
-Console.WriteLine(conta.ObterHistoricodeConta());
