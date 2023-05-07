@@ -65,5 +65,10 @@ public class ContaBancaria
 
     return relatorio.ToString();
     }
+    
+    //Usa-se a palavra-chave virtual para declarar um método na classe base para o qual uma classe derivada pode fornecer uma implementação diferente
+    //A palavra-chave virtual especifica que as classes derivadas podem substituir o comportamento
+    //Um método virtual é um método em que qualquer classe derivada pode optar por reimplementar
+    //As classes derivadas usam a palavra-chave override para definir a nova implementação(tem na ContadeGanhodeJuros).
     public virtual void ExecutarTransacoesdeFimdeMes() { }
 }
