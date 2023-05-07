@@ -11,6 +11,7 @@ conta.EfetuarDeposito(100, DateTime.Now, "Recebimento de um amigo"); //Saldo Atu
 Console.WriteLine($"Saldo Atual de {conta.Saldo}\n");
 
 /*
+//testando saldo negativo.
 try
 {
     conta.EfetuarSaque(750, DateTime.Now, "Tentativa de saque sem saldo suficiente");
