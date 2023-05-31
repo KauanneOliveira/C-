@@ -1,0 +1,15 @@
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.csproj.AssemblyReference.cache
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.AssemblyInfoInputs.cache
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.AssemblyInfo.cs
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.csproj.CoreCompileInputs.cache
+/home/estudante1/Gastos/Gastos/bin/Debug/net7.0/Gastos
+/home/estudante1/Gastos/Gastos/bin/Debug/net7.0/Gastos.deps.json
+/home/estudante1/Gastos/Gastos/bin/Debug/net7.0/Gastos.runtimeconfig.json
+/home/estudante1/Gastos/Gastos/bin/Debug/net7.0/Gastos.dll
+/home/estudante1/Gastos/Gastos/bin/Debug/net7.0/Gastos.pdb
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.dll
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/refint/Gastos.dll
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.pdb
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/Gastos.genruntimeconfig.cache
+/home/estudante1/Gastos/Gastos/obj/Debug/net7.0/ref/Gastos.dll
